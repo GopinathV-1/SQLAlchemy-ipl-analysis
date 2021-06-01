@@ -2,7 +2,7 @@
 
 ## IPL-DATA-ANALYSIS
 
-This repo consists of a source code of a python script and JavaScript to make specific analysis in the IPL dataset using **Data-structure**.
+This repo consists of a source code of a python script and JavaScript to make specific analysis in the IPL dataset using **Queries**.
 
 [![IPL](pictures/IPL.png)](https://en.wikipedia.org/wiki/Indian_Premier_League)
 
