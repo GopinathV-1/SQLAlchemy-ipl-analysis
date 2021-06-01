@@ -1,6 +1,6 @@
 # Dataproject SQLAlchemy
 
-## IPL-ANALYSIS-JAVASCRIPT
+## IPL-DATA-ANALYSIS
 
 This repo consists of a source code of a python script and JavaScript to make specific analysis in the IPL dataset using **Data-structure**.
 
